@@ -35,6 +35,9 @@ Gunakan slider untuk mengatur kecepatan mobil sesuai keinginan.
 
 ## Koneksi L9110S
 
+
+
+
 Jika menggunakan driver motor L9110S (dengan pin A-1A/A-1B dan B-1A/B-1B), hubungkan sebagai berikut:
 
 ### Diagram Koneksi
@@ -78,5 +81,7 @@ Jika membutuhkan versi dengan fitur tambahan, berikut varian yang dapat disiapka
 Hubungi developer untuk mendapatkan varian dengan fitur-fitur tersebut.
 
 ---
+
+<iframe width="1313" height="716" src="https://www.youtube.com/embed/V_iguLgA3fM?list=RDV_iguLgA3fM" title="Kumpulan Slow Pop Jawa Terbaru 2025 | Bikin Baper &amp; Viral! | Akustik | Cover Full Album" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 © 2023 ESP32 Car Controller Project | Dokumentasi ini diperbarui terakhir pada 15 September 2023
