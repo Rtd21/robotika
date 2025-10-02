@@ -1,6 +1,6 @@
 # ESP32 Car Controller
 
-Panduan penggunaan dan instalasi untuk mobil kontrol Wi-Fi berbasis ESP32.
+Panduan penggunaan dan instalasi untuk mobil kontrol Wi-Fi berbasis ESP8266.
 
 ## Cara Penggunaan
 
