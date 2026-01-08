@@ -83,4 +83,10 @@ Hubungi developer untuk mendapatkan varian dengan fitur-fitur tersebut.
 
 ---
 
+Sertifikat:
+1.[IBM sertifikat (RachmadTD - Artificial Intelligence Fundamentals).pdf](https://github.com/user-attachments/files/24486400/IBM.sertifikat.RachmadTD.-.Artificial.Intelligence.Fundamentals.pdf)
+
+
+---
+
 © 2023 ESP32 Car Controller Project | Dokumentasi ini diperbarui terakhir pada 15 September 2023
